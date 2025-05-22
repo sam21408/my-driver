@@ -77,7 +77,7 @@ module_exit(sysfs_demo_exit);
 // 模組描述資訊（作者、授權）
 // =======================
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("你");
+MODULE_AUTHOR("MIN");
 MODULE_DESCRIPTION("A simple sysfs variable module");
 
 
